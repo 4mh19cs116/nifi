@@ -1,7 +1,0 @@
-flows:
-  50576a42-6764-46fb-b8ff-9c53fb64a7c5: {ver: 1, file: IX.1.2.4.snapshot, comments: '',
-    author: anonymous, created: 1768741047817, flowName: IX.1.2.4, flowDesc: ''}
-  bb63cbb6-a485-4647-b7b9-6010055a8623: {ver: 1, file: new1.snapshot, comments: '',
-    author: anonymous, created: 1768740983847, flowName: new1, flowDesc: ''}
-layoutVer: 1
-bucketId: 24e61b2d-2325-4249-8c2f-1d9ec2aae239
